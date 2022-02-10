@@ -82,7 +82,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/breakdowns/slam-mirrorbot mirrorbot/
+git clone https://github.com/AJ786-GITHUB/slam-mirrorbot mirrorbot/
 cd mirrorbot
 ```
 
@@ -231,7 +231,7 @@ sudo docker run -p 80:80 mirror-bot
 ```
 OR
 
-**NOTE**: If you want to use port other than 80, change it in [docker-compose.yml](https://github.com/SlamDevs/slam-mirrorbot/blob/master/docker-compose.yml)
+**NOTE**: If you want to use port other than 80, change it in [docker-compose.yml](https://github.com/AJ786-GITHUB/slam-mirrorbot/blob/master/docker-compose.yml)
 
 - Using Docker-compose, you can edit and build your image in seconds:
 ```
@@ -364,4 +364,4 @@ Thanks to:
 - [`yash-dk`](https://github.com/yash-dk) for implementation of qBittorrent on Python
 - [`xyou365`](https://github.com/xyou365) for Service Accounts script
 
-And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/breakdowns/slam-mirrorbot/graphs/contributors).
+And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/AJ786-GITHUB/slam-mirrorbot/graphs/contributors).

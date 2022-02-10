@@ -155,7 +155,7 @@ help_string_telegraph = f'''<br>
 '''
 help = Telegraph(access_token=telegraph_token).create_page(
         title='Slam Mirrorbot Help',
-        author_name='AJ786-Slam Mirrorbot',
+        author_name='Slam Mirrorbot',
         author_url='https://github.com/AJ786-GITHUB/slam-mirrorbot',
         html_content=help_string_telegraph,
     )["path"]

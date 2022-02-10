@@ -1,5 +1,5 @@
-# Implement By - @anasty17 (https://github.com/SlamDevs/slam-mirrorbot/commit/d888a1e7237f4633c066f7c2bbfba030b83ad616)
-# (c) https://github.com/SlamDevs/slam-mirrorbot
+# Implement By - @anasty17 (https://github.com/AJ786-GITHUB/slam-mirrorbot/commit/d888a1e7237f4633c066f7c2bbfba030b83ad616)
+# (c) https://github.com/AJ786-GITHUB/slam-mirrorbot
 # All rights reserved
 
 from .status import Status

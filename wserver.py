@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # (c) YashDK [yash-dk@github]
-# Redesigned By - @bipuldey19 (https://github.com/SlamDevs/slam-mirrorbot/commit/1e572f4fa3625ecceb953ce6d3e7cf7334a4d542#diff-c3d91f56f4c5d8b5af3d856d15a76bd5f00aa38d712691b91501734940761bdd)
+# Redesigned By - @bipuldey19 (https://github.com/AJ786-GITHUB/slam-mirrorbot/commit/1e572f4fa3625ecceb953ce6d3e7cf7334a4d542#diff-c3d91f56f4c5d8b5af3d856d15a76bd5f00aa38d712691b91501734940761bdd)
 
 import os
 import time
@@ -210,7 +210,7 @@ input[type="submit"]:hover, input[type="submit"]:focus{
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/SlamDevs/slam-mirrorbot"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/AJ786-GITHUB/slam-mirrorbot"><i class="fab fa-github"></i></a>
         <a href="https://t.me/SlamMirrorUpdates"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
@@ -535,7 +535,7 @@ section span{
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/SlamDevs/slam-mirrorbot"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/AJ786-GITHUB/slam-mirrorbot"><i class="fab fa-github"></i></a>
         <a href="https://t.me/SlamMirrorUpdates"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
@@ -705,7 +705,7 @@ async def set_priority(request):
 @routes.get('/')
 async def homepage(request):
 
-    return web.Response(text="<h1>See slam-mirrorbot <a href='https://github.com/SlamDevs/slam-mirrorbot'>@GitHub</a> By <a href='https://github.com/SlamDevs'>SlamDevs</a></h1>", content_type="text/html")
+    return web.Response(text="<h1>See slam-mirrorbot <a href='https://github.com/AJ786-GITHUB/slam-mirrorbot'>@GitHub</a> By <a href='https://github.com/SlamDevs'>SlamDevs</a></h1>", content_type="text/html")
 
 
 async def e404_middleware(app, handler):
